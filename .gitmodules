@@ -1,12 +1,15 @@
 [submodule "TwitchLib.PubSub"]
 	path = TwitchLib.PubSub
+    branch = dev
 	url = https://github.com/TwitchLib/TwitchLib.PubSub
 [submodule "TwitchLib.Client"]
 	path = TwitchLib.Client
 	url = https://github.com/TwitchLib/TwitchLib.Client
+    branch = dev
 [submodule "TwitchLib.Api"]
 	path = TwitchLib.Api
 	url = https://github.com/TwitchLib/TwitchLib.Api
+    branch = dev
 [submodule "TwitchLib.WebSocket"]
 	path = TwitchLib.WebSocket
 	url = https://github.com/TwitchLib/TwitchLib.WebSocket
